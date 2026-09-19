@@ -6,7 +6,7 @@
 
 ```
 
-2. Edit [tb.v](https://www.google.com/search?q=tb.v&utm_source=gemini) and replace `tt_um_example` with your module name: `tt_um_vga_seasons`.
+2. Edit [tb.v] and replace `tt_um_example` with your module name: `tt_um_vga_seasons`.
 
 ## How to run
 
