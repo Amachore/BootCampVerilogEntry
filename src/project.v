@@ -1,4 +1,8 @@
 `default_nettype none
+/* verilator lint_off LATCH */
+/* verilator lint_off WIDTHEXPAND */
+/* verilator lint_off WIDTHTRUNC */
+/* verilator lint_off UNSIGNED */
 
 // Note Frequency Defines
 `define C2   241
